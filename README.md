@@ -1,7 +1,7 @@
 <img src="tsos.png">
 
 # the site of sites
-# ontaining:
+# Containing:
 - smash karts
 - realmz.io
 - shell shockers

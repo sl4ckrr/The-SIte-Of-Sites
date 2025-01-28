@@ -1,5 +1,5 @@
 <img src="tsos.png">
-# containing:
+# Containing:
 - smash karts
 - realmz.io
 - shell shockers

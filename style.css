@@ -13,8 +13,6 @@ body {
 img {
   margin-left: auto;
   margin-right: auto;
-  width: 20%;
-  height:20%;
 }
 a{
   display: flex;
